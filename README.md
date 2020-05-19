@@ -1,2 +1,1 @@
-# Acronis_CrackMe
-Task for Acronis
+Разбор задания находится в CrackMe.pdf
