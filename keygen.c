@@ -32,5 +32,6 @@ int main()
 	pass ^= 0x5678;
 	pass ^= 0x1234;
 	printf("Password: %d\n", pass);
+	free(login);
 	return 0;
 }
